@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T14:47:36.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R07jwx182JZyYv_B0gtw" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T14:50:40.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PU2AZwg99o9BLcIcImvR" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="jfs0I3XlGHReQJGSgwva">
     <mxGraphModel dx="2172" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,13 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-18" value="Процесс Интеграции Корпоративной Архитекторы на запуск процесса Comunda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-387" y="-52" width="475" height="148" as="geometry" />
+          <mxGeometry x="-374" y="114" width="475" height="148" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-5" value="Маршрутизация объекта&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-18">
-          <mxGeometry x="186" y="42" width="80" height="80" as="geometry" />
+          <mxGeometry x="186" y="42" width="89" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-14" value="Запуск задачи процесса&amp;nbsp; Comunda" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-18">
-          <mxGeometry x="355" y="40" width="80" height="80" as="geometry" />
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-14" value="Запуск задачи процесса&amp;nbsp; Camunda" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-18">
+          <mxGeometry x="349" y="40" width="86" height="86" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1.025;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.05;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-18" source="MPoNIu0Ecee1fLwCkvbO-5" target="MPoNIu0Ecee1fLwCkvbO-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-24" value="Получение результата выполнения задачи процесса&amp;nbsp; Ca&lt;span style=&quot;background-color: initial;&quot;&gt;munda&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-25">
-          <mxGeometry x="337" y="39.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="327" y="39.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.594;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-25" source="MPoNIu0Ecee1fLwCkvbO-24" target="MPoNIu0Ecee1fLwCkvbO-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,34 +79,10 @@
             <mxPoint x="-26" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MPoNIu0Ecee1fLwCkvbO-20" target="MPoNIu0Ecee1fLwCkvbO-1">
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPoNIu0Ecee1fLwCkvbO-20" target="MPoNIu0Ecee1fLwCkvbO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-76" y="324" as="sourcePoint" />
             <mxPoint x="-26" y="274" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-35" value="Процесс Интеграции Корпоративной Архитекторы на получение ответа выполнения задачи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-387" y="120" width="475" height="138" as="geometry" />
-        </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-30" value="Преобазователь в объкт" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-35">
-          <mxGeometry x="27" y="40" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-31" value="Маршрутизация объекта&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-35">
-          <mxGeometry x="176" y="40" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-36" value="Ответ выполнения задачи" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-35">
-          <mxGeometry x="350" y="43" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1.025;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-35" source="MPoNIu0Ecee1fLwCkvbO-31" target="MPoNIu0Ecee1fLwCkvbO-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="506" y="-27" as="sourcePoint" />
-            <mxPoint x="340" y="181" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-35" source="MPoNIu0Ecee1fLwCkvbO-30" target="MPoNIu0Ecee1fLwCkvbO-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="506" y="-27" as="sourcePoint" />
-            <mxPoint x="192" y="-136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1.063;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPoNIu0Ecee1fLwCkvbO-36" target="MPoNIu0Ecee1fLwCkvbO-44">
@@ -128,14 +104,14 @@
           <mxGeometry x="25" y="71" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-48" value="Маршрутизация объекта&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-46">
-          <mxGeometry x="188" y="71" width="80" height="80" as="geometry" />
+          <mxGeometry x="176" y="71" width="92" height="92" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-49" value="Запрос&lt;div&gt;&amp;nbsp;выполнения задачи&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-46">
           <mxGeometry x="337" y="74" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.05;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-46" source="MPoNIu0Ecee1fLwCkvbO-49" target="MPoNIu0Ecee1fLwCkvbO-48">
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1.05;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-46" target="MPoNIu0Ecee1fLwCkvbO-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="306" y="174" as="sourcePoint" />
+            <mxPoint x="334" y="117" as="sourcePoint" />
             <mxPoint x="278" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -151,7 +127,7 @@
             <mxPoint x="102" y="173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.567;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.85;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MPoNIu0Ecee1fLwCkvbO-44" target="MPoNIu0Ecee1fLwCkvbO-49">
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.567;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPoNIu0Ecee1fLwCkvbO-44" target="MPoNIu0Ecee1fLwCkvbO-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="52" y="223" as="sourcePoint" />
             <mxPoint x="102" y="173" as="targetPoint" />
@@ -191,6 +167,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="431" y="155" as="sourcePoint" />
             <mxPoint x="459" y="27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-35" value="Процесс Интеграции Корпоративной Архитекторы на получение ответа выполнения задачи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-377" y="-60" width="475" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-30" value="Преобазователь в объкт" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-35">
+          <mxGeometry x="27" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-31" value="Маршрутизация объекта&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-35">
+          <mxGeometry x="176" y="40" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-36" value="Ответ выполнения задачи" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-35">
+          <mxGeometry x="350" y="43" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1.025;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-35" source="MPoNIu0Ecee1fLwCkvbO-31" target="MPoNIu0Ecee1fLwCkvbO-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="-27" as="sourcePoint" />
+            <mxPoint x="340" y="181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MPoNIu0Ecee1fLwCkvbO-35" source="MPoNIu0Ecee1fLwCkvbO-30" target="MPoNIu0Ecee1fLwCkvbO-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="-27" as="sourcePoint" />
+            <mxPoint x="192" y="-136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
