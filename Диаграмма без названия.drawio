@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T10:10:12.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NgKnZPOY4RT4oeJ1-a1V" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T10:14:46.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="a01HjcZLPudy_Gia5Tga" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="jfs0I3XlGHReQJGSgwva">
-    <mxGraphModel dx="1510" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1910" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-18" value="Процесс Интеграции Корпоративной Архитекторы на запуск процесса Comunda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-22" width="475" height="319" as="geometry" />
+          <mxGeometry x="-340" y="-13" width="475" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-20" value="Преобазователь из объкта" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="413" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-21" value="Маршрутизация объекта&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-316" y="503" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MPoNIu0Ecee1fLwCkvbO-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-281" y="500" as="sourcePoint" />
+            <mxPoint x="-351" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MPoNIu0Ecee1fLwCkvbO-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-124" y="580" as="sourcePoint" />
+            <mxPoint x="-213" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-24" value="Получение результата выполнения задачи процесса&amp;nbsp; Comunda" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="546" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-25" value="Процесс Интеграции Корпоративной Архитекторы на получение результата выполнения процесса Comunda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="364" width="475" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="MPoNIu0Ecee1fLwCkvbO-16" target="MPoNIu0Ecee1fLwCkvbO-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="564" as="sourcePoint" />
+            <mxPoint x="-26" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MPoNIu0Ecee1fLwCkvbO-20" target="MPoNIu0Ecee1fLwCkvbO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-76" y="324" as="sourcePoint" />
+            <mxPoint x="-26" y="274" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
