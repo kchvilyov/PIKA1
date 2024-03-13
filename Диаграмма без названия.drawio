@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T10:14:46.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="a01HjcZLPudy_Gia5Tga" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T10:16:13.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HdDCMBeiddM00h03Ib32" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="jfs0I3XlGHReQJGSgwva">
     <mxGraphModel dx="1910" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,12 @@
             <mxPoint x="-76" y="324" as="sourcePoint" />
             <mxPoint x="-26" y="274" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-28" value="Запуск задачи процесса&amp;nbsp; Comunda" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="26" y="153" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-29" value="Получение результата выполнения задачи процесса&amp;nbsp; Comunda" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="537" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
