@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T14:52:00.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="axsTirmehX9niGjgsO6o" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T14:55:33.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VZFmkx_QC1KJYBYjUVld" version="24.0.5" type="github">
   <diagram name="Страница — 1" id="jfs0I3XlGHReQJGSgwva">
     <mxGraphModel dx="2172" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="102" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-18" value="Процесс Интеграции Корпоративной Архитекторы на запуск процесса Comunda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-18" value="Процесс Интеграционной Корпоративной Архитекторы на запуск процесса Comunda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-374" y="114" width="475" height="148" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-5" value="Маршрутизация объекта&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-18">
@@ -49,7 +49,7 @@
             <mxPoint x="248" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-25" value="Процесс Интеграции Корпоративной Архитекторы на получение результата выполнения процесса Comunda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-25" value="Процесс Интеграционной Корпоративной Архитекторы на получение результата выполнения процесса Comunda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-377" y="280" width="475" height="152" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-21" value="Маршрутизация объекта&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-25">
@@ -97,7 +97,7 @@
             <mxPoint x="101" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-46" value="Процесс Интеграции Корпоративной Архитекторы на передачу запроса на выполнение задачи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-46" value="Процесс Интеграционной Корпоративной Архитекторы на передачу запроса на выполнение задачи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-385" y="-273" width="480" height="192" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-47" value="Преобазователь из объкта" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-46">
@@ -169,7 +169,7 @@
             <mxPoint x="459" y="27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoNIu0Ecee1fLwCkvbO-35" value="Процесс Интеграции Корпоративной Архитекторы на получение ответа выполнения задачи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MPoNIu0Ecee1fLwCkvbO-35" value="Процесс Интеграционной Корпоративной Архитекторы на получение ответа выполнения задачи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-377" y="-60" width="475" height="138" as="geometry" />
         </mxCell>
         <mxCell id="MPoNIu0Ecee1fLwCkvbO-30" value="Преобазователь в объкт" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="MPoNIu0Ecee1fLwCkvbO-35">
